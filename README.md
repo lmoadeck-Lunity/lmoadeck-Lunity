@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python!
 - attempting C# i think
 
-[![idk how to play hkoi](httpa://judge.hkoi.org/LM1080)]
+- [idk how to play hkoi](httpa://judge.hkoi.org/LM1080)
 
 
 
