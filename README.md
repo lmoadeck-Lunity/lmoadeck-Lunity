@@ -17,4 +17,23 @@ Here are some ideas to get you started:
 
 [![Ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmoadeck-Lunity&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-gya
+- 🌱 I’m currently learning Python!
+- attempting C# i think
+
+[idk how to play hkoi](httpa://judge.hkoi.org/LM1080)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i love 0401
+
