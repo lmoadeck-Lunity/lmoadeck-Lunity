@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmoadeck-Lunity)](https://github.com/anuraghazra/github-readme-stats)
+[![Ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmoadeck-Lunity&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 gya
