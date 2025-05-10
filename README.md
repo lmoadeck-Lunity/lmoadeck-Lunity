@@ -20,8 +20,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python!
 - attempting C# i think
 
-[idk how to play hkoi](https://judge.hkoi.org/user/LM1080)
-
-<!--i love teto-->
-
-[igig](https://instagram.com/lmaodeick)
